@@ -14,6 +14,7 @@ This is intentionally flexible: an agent can write HTML/CSS/JS to disk, view it 
 
 Install / Build
 
+
 Install the signed release on macOS 12 or later, or the Linux release, with Homebrew:
 
 brew install steipete/tap/canvas
